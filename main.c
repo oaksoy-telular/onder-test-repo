@@ -1,4 +1,4 @@
-/* test file */
+/* test file for main */
 
 #include <stdio.h>
 
