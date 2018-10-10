@@ -4,5 +4,6 @@
 
 void dev_test(void)
 {
+  /* add comment above */
   printf("Hi from dev_test");
 }
